@@ -1,0 +1,2 @@
+For more information about GoBuster please visit:
+https://github.com/OJ/gobuster
