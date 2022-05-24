@@ -75,7 +75,6 @@ async def main():
     start = time.time()
     #commands to run
     cmds = ["gobuster dns -d google.com -w C:/wordlists/login.txt -t 50 --quiet",
-            "gobuster dns -d instagram.com -w C:/wordlists/login.txt -t 50 --quiet",
             "gobuster dns -d yahoo.com -w C:/wordlists/login.txt -t 50 --quiet",
             "gobuster dns -d facebook.com -w C:/wordlists/login.txt -t 50 --quiet"]
 
