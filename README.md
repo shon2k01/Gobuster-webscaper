@@ -5,4 +5,7 @@ this project was initially created to identify log in pages and brute force them
 I've decided not to finish the brute-forcing part and create an awsome asynchronous webscraper instead.
 Comments/ideas for improvements are VERY welcome!
 
+For more information about GoBuster please visit:
+https://github.com/OJ/gobuster
+
 Enjoy:)
