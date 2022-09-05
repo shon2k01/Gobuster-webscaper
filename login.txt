@@ -1,2 +1,10 @@
+index
 login
-adsadasdasasdadasdasdasd
+password
+username
+authentication
+log in 
+log_in
+register
+log
+connect
